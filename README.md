@@ -11,7 +11,7 @@ A few facts about me:
   +08:00).
 - 🧑🏻 I speak fluent Indonesia, advance English, Intermediate Chinese (Traditional).
 
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/ban-jieming-0aa88a244/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](images/twitter.svg)](https://twitter.com/dedizainal1)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](images/github.svg)](https://github.com/dedizainal11)&nbsp;&nbsp;&nbsp;&nbsp;[![WMT](images/wmt.svg)](https://developers.google.com/profile/u/di_dev99)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](images/stackoverflow.svg)](https://stackoverflow.com/users/17494612/%e5%82%91%e6%98%8e%e7%8f%ad)&nbsp;&nbsp;&nbsp;&nbsp;[![Dribble](images/dribbble.svg)](https://dribbble.com/dedizainal11)&nbsp;&nbsp;&nbsp;&nbsp;
+/*[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/ban-jieming-0aa88a244/)&nbsp;&nbsp;&nbsp;&nbsp;[![Twitter](images/twitter.svg)](https://twitter.com/dedizainal1)&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub](images/github.svg)](https://github.com/dedizainal11)&nbsp;&nbsp;&nbsp;&nbsp;[![WMT](images/wmt.svg)](https://developers.google.com/profile/u/di_dev99)&nbsp;&nbsp;&nbsp;&nbsp;[![StackOverflow](images/stackoverflow.svg)](https://stackoverflow.com/users/17494612/%e5%82%91%e6%98%8e%e7%8f%ad)&nbsp;&nbsp;&nbsp;&nbsp;[![Dribble](images/dribbble.svg)](https://dribbble.com/dedizainal11)&nbsp;&nbsp;&nbsp;&nbsp;*/
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
