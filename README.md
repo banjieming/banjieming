@@ -1,4 +1,4 @@
-<h2> Hi there <img src = "images/Wave.gif" alt = "Ciao" height = 25 width = 25 /> <br>I'm banjieming 👩‍💻 </h2></br>
+<h2> Hi! <img src = "images/Wave.gif" alt = "Ciao" height = 25 width = 25 /> <br>I'm banjieming 👩‍💻 </h2></br>
 
 **I'm a student and a mobile development, passionate about quality software, focused on Flutter.**
 
