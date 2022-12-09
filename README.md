@@ -15,3 +15,7 @@ A few facts about me:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+
+### Github Stats
+
+[![Banjieming Github Stats](https://github-readme-stats.vercel.app/api?username=banjieming&count_private=true&theme=default&show_icons=true)](https://github.com/banjieming)
