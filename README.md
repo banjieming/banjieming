@@ -19,3 +19,4 @@ A few facts about me:
 ### Github Stats
 
 [![Banjieming Github Stats](https://github-readme-stats.vercel.app/api?username=banjieming&count_private=true&theme=default&show_icons=true)](https://github.com/banjieming)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banjieming&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=4"/>
