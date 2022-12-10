@@ -12,10 +12,6 @@ A few facts about me:
   +08:00).
 - 🧑🏻 I speak fluent Indonesia, advance English, Intermediate Chinese (Traditional).
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
-
 ### Github Stats
 
 <br />
