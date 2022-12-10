@@ -14,9 +14,9 @@ A few facts about me:
 
 <br />
 <div style="display: flex; align-items: center;">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=roaa94&show_icons=true&count_private=true&hide_title=false&theme=gruvbox"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=banjieming&show_icons=true&count_private=true&hide_title=false&theme=gruvbox"/>
 
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=gruvbox&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"/>
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=banjieming&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 # 💻 Tech Stack:
