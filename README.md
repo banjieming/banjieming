@@ -1,7 +1,7 @@
 <!-- <img src = "images/Wave.gif" alt = "Ciao" height = 25 width = 25 /> -->
 <h2> Hi! <br>I'm banjieming 👩‍💻 </h2></br>
 
-**I'm a student and a mobile development, passionate about quality software, focused on Flutter.**
+**I'm a professional worker in Taiwan, a technical engineer, and a mobile developer, passionate about quality software, focused on Flutter.**
 
 A few facts about me:
 
