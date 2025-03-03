@@ -5,7 +5,6 @@
 
 A few facts about me:
 
-- 👨🏻‍🎓 I am a student at [Kun Shan Univeristy](https://eng-www.ksu.edu.tw/).
 - 👩‍💻 I am passionate about what I do, and Flutter is my major hobby.
 - ✍🏻 I also UX-UI Design using [Figma](https://www.figma.com/).
 - 🌑 I Stay in [Taiwan](https://www.google.com/maps/place/Kota+Tainan/@23.3158891,120.1376961,7.25z/data=!4m13!1m7!3m6!1s0x346e7ccc953ffe13:0xd47f4caaa5dc764e!2sKota+Tainan!3b1!8m2!3d22.9998999!4d120.2268758!3m4!1s0x346e7ccc953ffe13:0xd47f4caaa5dc764e!8m2!3d22.9998999!4d120.2268758). My timezone is EEST (UTC
