@@ -14,7 +14,7 @@
 
 ### 🚀 What I'm working on
 
-- **[Mixora AI](https://mixoraai.com)** — an AI workspace for learning Mandarin: dialog generation, TTS, flashcards, stroke practice, and video export.
+- **[Mixora AI](https://mixoraai.com)** — an AI workspace for learning Mandarin: dialog generation, TTS, flashcards and stroke practice.
 - **Mixora mobile** — the Flutter companion app.
 
 ### 🧑‍💻 About me
