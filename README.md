@@ -35,7 +35,3 @@
 <p>
   <img height="165" src="https://streak-stats.demolab.com?user=banjieming&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
-<p>
-  <img src="https://ghchart.rshah.org/9087E5/banjieming" alt="banjieming's contribution chart" />
-</p>
